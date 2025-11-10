@@ -8,7 +8,7 @@ This repository is my "trophy" to celebrate this milestone.
 
 *(This is what it looks like! You can add a screenshot of your own badge here after you edit this file.)*
 
-![Pull Shark Badge](https://github.com/images/github-pull-shark-badge-example.png)
+![Pull Shark Badge](https://raw.githubusercontent.com/github/archive-program/master/15years_badge/pull_shark.png)
 
 ---
 
