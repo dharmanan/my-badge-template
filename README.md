@@ -8,7 +8,7 @@ This repository is my "trophy" to celebrate this milestone.
 
 *(This is what it looks like! You can add a screenshot of your own badge here after you edit this file.)*
 
-![Pull Shark Badge](./pullbatch.png) ∞
+![Pull Shark Badge](./pullbatch.png "Pull Shark Badge") ∞
 
 ---
 
